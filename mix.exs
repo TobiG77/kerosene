@@ -40,7 +40,7 @@ defmodule Kerosene.Mixfile do
   defp deps do
     [{:phoenix_html, "~> 2.6"},
      {:ecto, "~> 2.0"},
-     {:postgrex, "~> 0.11.0"},
+     {:postgrex, "~> 0.12.0"},
      # Docs dependencies
      {:earmark, "~> 0.1", only: :docs},
      {:ex_doc, "~> 0.11", only: :docs},

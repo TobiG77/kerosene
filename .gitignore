@@ -6,3 +6,6 @@
 *.tar
 erl_crash.dump
 *.ez
+/.idea
+/kerosene.iml
+
